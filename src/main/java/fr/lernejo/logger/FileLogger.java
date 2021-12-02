@@ -8,7 +8,7 @@ import java.nio.file.Paths;
 import static java.nio.file.StandardOpenOption.APPEND;
 import static java.nio.file.StandardOpenOption.CREATE;
 
-public class FileLogger implements Logger{
+public class FileLogger implements Logger {
 
     private final Path path;
 
