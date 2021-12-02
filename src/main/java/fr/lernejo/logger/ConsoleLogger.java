@@ -1,4 +1,4 @@
-package fr.bussonnais.logger;
+package fr.lernejo.logger;
 
 public class ConsoleLogger implements Logger {
 
